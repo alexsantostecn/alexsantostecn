@@ -1,7 +1,7 @@
-# 👋 Olá prazer, eu sou o Álex :)
+# 👨🏻‍💻 Prazer, eu sou o Álex :)
 ## 💻 Desenvolvedor | Técnico em Informática
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias: 
 
 ### 💻 Desenvolvimento e Linguagens:
 
