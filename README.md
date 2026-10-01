@@ -8,6 +8,6 @@ Olá, prazer! Eu sou o Álex :)
 
 🛠️ Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,ruby,rails,react,vite,vscode,postgres,git,github,ubuntu,wsl,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,ruby,rails,react,vite,vscode,postgres,git,github,ubuntu,docker" />
 
 ⭐ Obrigado por visitar meu perfil!
