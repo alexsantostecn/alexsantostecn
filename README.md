@@ -1,13 +1,34 @@
-Olá, prazer! Eu sou o Álex :)
+# 👋 Olá, eu sou o Álex!
 
-💻 Desenvolvedor | Técnico em Informática
+💻 **Desenvolvedor | Técnico em Informática**
 
-🌐 Atualmente focado em desenvolvimento web, trabalhando tanto no frontend quanto no backend.
+> 🌐 Focado atualmente em **desenvolvimento web**, atuando tanto no **frontend** quanto no **backend**.
 
-📚 Estou sempre buscando aprender novas tecnologias, melhorar minhas práticas de programação e entender melhor como sistemas reais são desenvolvidos.
+> 📚 Gosto de aprender novas tecnologias, aprimorar minhas práticas de programação e entender como aplicações reais são desenvolvidas.
 
-🛠️ Tecnologias e Ferramentas
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,ruby,rails,react,vite,vscode,postgres,git,github,ubuntu,docker" />
+## 🚀 Tecnologias & Ferramentas
 
-⭐ Obrigado por visitar meu perfil!
+### 💻 Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,ruby,rails" />
+
+### 🛠️ Ferramentas & Ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,docker,ubuntu,wsl" />
+
+---
+
+## 📌 Atualmente
+
+🔹 Desenvolvendo aplicações web
+🔹 Trabalhando com **frontend e backend**
+🔹 Aprendendo e aprimorando minhas práticas de desenvolvimento
+🔹 Explorando ferramentas utilizadas em projetos reais
+
+---
+
+### ⭐ Obrigado por visitar meu perfil!
+
+*Sempre aprendendo, desenvolvendo e evoluindo.* 🚀
