@@ -1,5 +1,5 @@
 # 👋 Olá prazer, eu sou o Álex :)
-## 💻 Desenvolvedor | Técnico em Informática**
+## 💻 Desenvolvedor | Técnico em Informática
 
 ## 🚀 Tecnologias & Ferramentas
 
