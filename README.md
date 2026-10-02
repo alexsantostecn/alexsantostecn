@@ -1,13 +1,10 @@
-# 👨🏻‍💻 Prazer, eu sou o Álex :)
-## 💻 Desenvolvedor | Técnico em Informática
+# 👨🏻‍💻 Prazer, meu nome é Álex, sou desenvolvedor :)
 
-## 🚀 Tecnologias: 
-
-### 💻 Desenvolvimento e Linguagens:
+## 💻 Tecnologias e Linguagens:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,ruby,rails" />
 
-### 🛠️ Ferramentas & Ambientes:
+## 🛠️ Ferramentas & Ambientes:
 
 <img src="https://skillicons.dev/icons?i=vscode,postgres,ubuntu,docker,git" />
 
