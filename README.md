@@ -4,7 +4,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,ruby,rails" />
 
-## 🛠️ Ferramentas & Ambientes:
+## 🛠️ Ferramentas e Ambientes:
 
 <img src="https://skillicons.dev/icons?i=vscode,postgres,ubuntu,docker,git" />
 
