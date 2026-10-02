@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Prazer, meu nome é Álex, sou desenvolvedor :)
+## 👨🏻‍💻 Prazer, meu nome é Álex, sou desenvolvedor :)
 
 ## 💻 Tecnologias e Linguagens:
 
